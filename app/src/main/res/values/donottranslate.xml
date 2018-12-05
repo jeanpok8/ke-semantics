@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <!-- Kinyarwanda translation for colors -->
+    <string name="esemantics_color_red">umutuku</string>
+    <string name="esemantics_color_dusty_yellow">umuhondo</string>
+    <string name="esemantics_color_mustard_yellow">umuhondo wigi</string>
+    <string name="esemantics_color_green">icyatsi</string>
+    <string name="esemantics_color_brown">ibihogo</string>
+    <string name="esemantics_color_black">umukara</string>
+    <string name="esemantics_color_gray">umukara weruye</string>
+    <string name="esemantics_color_white">umweru</string>
+
+
+    <!-- Kinyarwanda translation for family members -->
+    <string name="esemantics_family_father">papa</string>
+    <string name="esemantics_family_mother">mama</string>
+    <string name="esemantics_family_son">umuhungu</string>
+    <string name="esemantics_family_daughter">umwana</string>
+    <string name="esemantics_family_older_brother">musaza mukuru</string>
+    <string name="esemantics_family_younger_brother">musaza mutoya</string>
+    <string name="esemantics_family_older_sister">mushiki mukuru</string>
+    <string name="esemantics_family_younger_sister">mushiki mutoya</string>
+    <string name="esemantics_family_grandmother">nyugokuru</string>
+    <string name="esemantics_family_grandfather">sogokuru</string>
+
+    <!-- Kinyarwanda translation for numbers -->
+    <string name="esemantics_number_one">rimwe</string>
+    <string name="esemantics_number_two">kabili</string>
+    <string name="esemantics_number_three">gatatu</string>
+    <string name="esemantics_number_four">kane</string>
+    <string name="esemantics_number_five">gatanu</string>
+    <string name="esemantics_number_six">gatandatu</string>
+    <string name="esemantics_number_seven">karindwi</string>
+    <string name="esemantics_number_eight">umunani</string>
+    <string name="esemantics_number_nine">icyenda</string>
+    <string name="semantics_number_ten">icumi</string>
+
+
+
+    <!-- Kinyarwanda translation for simple phrases" -->
+    <string name="esemantics_phrase_where_are_you_going">ugiye hehe?</string>
+    <string name="esemantics_phrase_what_is_your_name">witwa nde?</string>
+    <string name="esemantics_phrase_my_name_is">nitwa...</string>
+    <string name="esemantics_phrase_how_are_you_feeling">umeze ute?</string>
+    <string name="esemantics_phrase_im_feeling_good">meze neza cyane.</string>
+    <string name="esemantics_phrase_are_you_coming">uraje?</string>
+    <string name="esemantics_phrase_yes_im_coming">yego, ndaje.</string>
+    <string name="esemantics_phrase_im_coming">ndaje nanjye.</string>
+    <string name="esemantics_phrase_lets_go">tugede.</string>
+    <string name="esemantics_phrase_come_here">ngwino hano.</string>
+</resources>
